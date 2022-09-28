@@ -1,4 +1,4 @@
-# checker-twitter
+# Checker Twitter
 
 The most common checker twitter accounts using cookies (NETSCAPE format)
 
